@@ -17,7 +17,7 @@ class ListingPage extends Component {
     render() {
         let providerList = null;
         let servicesList = this.props.services.data.map(service => {
-            return <ul className="list-services">
+            return <ul className="list-services" key={service.id} >
                 <li onClick={() => this.filterProviders(service.id)}> {service.id}</li>
             </ul>
         })
