@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T05:37:32.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.5" etag="7nNCx5VXdu-J7Ymkubpc" type="github"><diagram id="7kRgxRNi3zxyVAwDMGf7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-10T06:01:57.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="tWsx0OuH8DgWVlX-7gAg" version="14.8.5" type="github">
+  <diagram id="7kRgxRNi3zxyVAwDMGf7" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="760" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="257" y="110" width="353" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-7" value="Rest based Web Apis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="140" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-8" value="Business Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="140" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-9" value="Data Access Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="140" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-10" value="Browser&lt;br&gt;Angular 11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="79" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-15" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="210" as="sourcePoint" />
+            <mxPoint x="260" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-18" value="My SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="701" y="150" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0KzY8jpBj4Nn5DU-FfKv-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="611" y="210" as="sourcePoint" />
+            <mxPoint x="701" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
